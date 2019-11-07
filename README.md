@@ -7,4 +7,4 @@ smtplib library for sending emails to give otp for registration online
 it is a mini project which I'm sharing please support my hard work of day and night by 
 just subscribing to my youtube channel https://www.youtube.com/channel/UCCuNQ7G4mCcoGq-y-RCjmhw 
 it will help you to learn more things and work with me in the future, 
-I'll be continuously programming for good thanks :)
+I'll be continuously programming for good,  thanks :)
